@@ -1,0 +1,34 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+
+code: .
+command: >-
+  python train.py
+  --data-path ${{inputs.data_path}}
+  --output-dir ${{outputs.model_output}}
+  --epochs 50
+  --batch-size 64
+  --learning-rate 0.0001
+  --use-gpu
+
+inputs:
+  data_path:
+    type: uri_folder
+    path: azureml://datastores/workspaceblobstore/paths/boiler_dataset/
+
+outputs:
+  model_output:
+    type: uri_folder
+
+environment: azureml:AzureML-pytorch-2.0-ubuntu20.04-py38-cuda11.8@latest
+
+compute: azureml:gpu-cluster
+
+experiment_name: boiler-temperature-classification-gpu
+display_name: GPU Boiler Temperature Classification
+description: GPU-accelerated training for boiler temperature classification
+
+tags:
+  project: boiler-classification
+  version: 1.0
+  gpu: true
+  author: automl-demo 

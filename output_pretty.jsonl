@@ -1,0 +1,18 @@
+{
+  "image_url": "azureml://subscriptions/<my-subscription-id>/resourcegroups/<my-resource-group>/workspaces/<my-workspace>/datastores/<my-datastore>/paths/image_data/Image_01.png",
+  "image_details": {
+    "format": "png",
+    "width": "2230px",
+    "height": "4356px"
+  },
+  "label": "cat"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/image_data/Image_02.jpeg",
+  "image_details": {
+    "format": "jpeg",
+    "width": "3456px",
+    "height": "3467px"
+  },
+  "label": "dog"
+}

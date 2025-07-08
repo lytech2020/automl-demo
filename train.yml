@@ -1,0 +1,27 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+
+code: .
+command: >-
+  python train.py
+  --data-path ${{inputs.data_path}}
+  --output-dir ${{outputs.model_output}}
+  --epochs 10
+  --batch-size 32
+  --learning-rate 0.001
+
+inputs:
+  data_path:
+    type: uri_folder
+    path: azureml://datastores/workspaceblobstore/paths/boiler_dataset/
+
+outputs:
+  model_output:
+    type: uri_folder
+
+environment: azureml:AzureML-sklearn-1.1-ubuntu20.04-py38-cpu@latest
+
+compute: azureml:cpu-cluster
+
+experiment_name: boiler-temperature-classification
+display_name: Boiler Temperature Classification Training
+description: Train a model to classify boiler temperature from images 

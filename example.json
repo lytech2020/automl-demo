@@ -1,0 +1,20 @@
+{
+    "image_url": "azureml://subscriptions/<my-subscription-id>/resourcegroups/<my-resource-group>/workspaces/<my-workspace>/datastores/<my-datastore>/paths/image_data/Image_01.png",
+    "image_details":
+    {
+        "format": "png",
+        "width": "2230px",
+        "height": "4356px"
+    },
+    "label": "cat"
+}
+{
+    "image_url": "azureml://subscriptions/<my-subscription-id>/resourcegroups/<my-resource-group>/workspaces/<my-workspace>/datastores/<my-datastore>/paths/image_data/Image_02.jpeg",
+    "image_details":
+    {
+        "format": "jpeg",
+        "width": "3456px",
+        "height": "3467px"
+    },
+    "label": "dog"
+}

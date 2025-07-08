@@ -1,0 +1,45 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+
+code: .
+command: >-
+  python train.py
+  --data-path ${{inputs.data_path}}
+  --output-dir ${{outputs.model_output}}
+  --epochs ${{inputs.epochs}}
+  --batch-size ${{inputs.batch_size}}
+  --learning-rate ${{inputs.learning_rate}}
+  --model-type ${{inputs.model_type}}
+
+inputs:
+  data_path:
+    type: uri_folder
+    path: azureml://datastores/workspaceblobstore/paths/boiler_dataset/
+  epochs:
+    type: integer
+    default: 10
+  batch_size:
+    type: integer
+    default: 32
+  learning_rate:
+    type: number
+    default: 0.001
+  model_type:
+    type: string
+    default: "random_forest"
+
+outputs:
+  model_output:
+    type: uri_folder
+
+environment: azureml:AzureML-sklearn-1.1-ubuntu20.04-py38-cpu@latest
+
+compute: azureml:cpu-cluster
+
+experiment_name: boiler-temperature-classification
+display_name: Advanced Boiler Temperature Classification
+description: Advanced training job with configurable parameters
+
+tags:
+  project: boiler-classification
+  version: 1.0
+  author: automl-demo 

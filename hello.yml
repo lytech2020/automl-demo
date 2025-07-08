@@ -1,0 +1,13 @@
+type: mltable
+ 
+paths:
+  - file: ./your_data.jsonl
+ 
+transformations:
+  - read_json_lines:
+      encoding: utf8
+      invalid_lines: error
+      include_path_column: false
+  - convert_column_types:
+      - column: image_url
+        type: stream_info

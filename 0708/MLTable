@@ -1,0 +1,14 @@
+$schema: https://azuremlschemas.azureedge.net/latest/MLTable.schema.json
+type: mltable
+ 
+paths:
+  - file: ./boiler_dataset_with_dimensions.jsonl
+ 
+transformations:
+  - read_json_lines:
+      encoding: utf8
+      invalid_lines: error
+      include_path_column: false
+  - convert_column_types:
+      - columns: image_url
+        column_type: stream_info

@@ -1,0 +1,720 @@
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_38.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "365.2",
+  "timestamp": "2025-07-05 21:22:13",
+  "relative_path": "低温/boiler_autoML_38.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_gradient2_08.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "180.3",
+  "timestamp": "2025-06-29 16:47:13",
+  "relative_path": "低温/boiler_gradient2_08.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_05.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "204.7",
+  "timestamp": "2025-06-20 00:07:13",
+  "relative_path": "低温/boiler_autoML_05.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_11.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "173.2",
+  "timestamp": "2025-07-03 07:14:13",
+  "relative_path": "低温/boiler_autoML_11.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_gradient2_09.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "155.3",
+  "timestamp": "2025-06-19 11:31:13",
+  "relative_path": "低温/boiler_gradient2_09.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_07.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "286.2",
+  "timestamp": "2025-06-29 04:31:13",
+  "relative_path": "低温/boiler_autoML_07.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_06.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "290.3",
+  "timestamp": "2025-06-13 22:24:13",
+  "relative_path": "低温/boiler_autoML_06.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_16.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "326.1",
+  "timestamp": "2025-07-04 21:54:13",
+  "relative_path": "低温/boiler_autoML_16.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_15.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "371.4",
+  "timestamp": "2025-06-25 00:56:13",
+  "relative_path": "低温/boiler_autoML_15.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_14.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "288.0",
+  "timestamp": "2025-06-09 22:29:13",
+  "relative_path": "低温/boiler_autoML_14.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_30.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "185.7",
+  "timestamp": "2025-07-02 11:21:13",
+  "relative_path": "低温/boiler_autoML_30.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_32.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "257.1",
+  "timestamp": "2025-06-18 06:45:13",
+  "relative_path": "低温/boiler_autoML_32.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_33.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "204.8",
+  "timestamp": "2025-07-02 02:37:13",
+  "relative_path": "低温/boiler_autoML_33.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_27.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "166.5",
+  "timestamp": "2025-06-07 00:12:13",
+  "relative_path": "低温/boiler_autoML_27.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_gradient2_07.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "312.5",
+  "timestamp": "2025-06-22 02:40:13",
+  "relative_path": "低温/boiler_gradient2_07.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_22.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "192.8",
+  "timestamp": "2025-06-13 11:58:13",
+  "relative_path": "低温/boiler_autoML_22.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_50.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "164.5",
+  "timestamp": "2025-06-08 01:03:13",
+  "relative_path": "低温/boiler_autoML_50.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_41.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "223.4",
+  "timestamp": "2025-07-01 05:08:13",
+  "relative_path": "低温/boiler_autoML_41.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/低温/boiler_autoML_43.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "低温",
+  "temperature_value": "393.0",
+  "timestamp": "2025-06-12 13:36:13",
+  "relative_path": "低温/boiler_autoML_43.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_49.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "433.6",
+  "timestamp": "2025-06-25 09:53:13",
+  "relative_path": "中温/boiler_autoML_49.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_48.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "400.2",
+  "timestamp": "2025-06-26 04:07:13",
+  "relative_path": "中温/boiler_autoML_48.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_04.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "577.1",
+  "timestamp": "2025-07-05 19:03:13",
+  "relative_path": "中温/boiler_autoML_04.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_39.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "434.4",
+  "timestamp": "2025-06-08 01:20:13",
+  "relative_path": "中温/boiler_autoML_39.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_17.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "631.9",
+  "timestamp": "2025-07-04 11:13:13",
+  "relative_path": "中温/boiler_autoML_17.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_01.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "591.8",
+  "timestamp": "2025-07-05 19:51:13",
+  "relative_path": "中温/boiler_autoML_01.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_29.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "518.7",
+  "timestamp": "2025-06-06 22:39:13",
+  "relative_path": "中温/boiler_autoML_29.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_28.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "615.4",
+  "timestamp": "2025-06-29 22:37:13",
+  "relative_path": "中温/boiler_autoML_28.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_19.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "650.2",
+  "timestamp": "2025-07-01 07:46:13",
+  "relative_path": "中温/boiler_autoML_19.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_31.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "568.4",
+  "timestamp": "2025-06-27 19:31:13",
+  "relative_path": "中温/boiler_autoML_31.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_25.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "630.5",
+  "timestamp": "2025-07-05 11:16:13",
+  "relative_path": "中温/boiler_autoML_25.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_24.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "567.1",
+  "timestamp": "2025-06-15 08:15:13",
+  "relative_path": "中温/boiler_autoML_24.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_18.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "430.3",
+  "timestamp": "2025-06-28 04:28:13",
+  "relative_path": "中温/boiler_autoML_18.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_23.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "538.7",
+  "timestamp": "2025-06-27 22:24:13",
+  "relative_path": "中温/boiler_autoML_23.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_37.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "698.8",
+  "timestamp": "2025-06-20 10:33:13",
+  "relative_path": "中温/boiler_autoML_37.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_gradient2_10.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "466.1",
+  "timestamp": "2025-07-03 20:28:13",
+  "relative_path": "中温/boiler_gradient2_10.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_20.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "462.9",
+  "timestamp": "2025-06-27 20:09:13",
+  "relative_path": "中温/boiler_autoML_20.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_09.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "641.7",
+  "timestamp": "2025-06-14 05:47:13",
+  "relative_path": "中温/boiler_autoML_09.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_21.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "605.1",
+  "timestamp": "2025-07-03 23:28:13",
+  "relative_path": "中温/boiler_autoML_21.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_gradient2_05.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "678.7",
+  "timestamp": "2025-06-11 19:24:13",
+  "relative_path": "中温/boiler_gradient2_05.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_46.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "445.9",
+  "timestamp": "2025-06-12 13:34:13",
+  "relative_path": "中温/boiler_autoML_46.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_47.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "686.0",
+  "timestamp": "2025-06-07 02:10:13",
+  "relative_path": "中温/boiler_autoML_47.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_45.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "652.5",
+  "timestamp": "2025-06-19 23:56:13",
+  "relative_path": "中温/boiler_autoML_45.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_40.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "480.0",
+  "timestamp": "2025-06-16 09:01:13",
+  "relative_path": "中温/boiler_autoML_40.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/中温/boiler_autoML_42.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "中温",
+  "temperature_value": "686.1",
+  "timestamp": "2025-06-07 19:52:13",
+  "relative_path": "中温/boiler_autoML_42.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_10.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "783.4",
+  "timestamp": "2025-06-30 09:02:13",
+  "relative_path": "高温/boiler_autoML_10.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_13.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "837.8",
+  "timestamp": "2025-07-03 07:03:13",
+  "relative_path": "高温/boiler_autoML_13.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_03.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "903.0",
+  "timestamp": "2025-06-08 02:03:13",
+  "relative_path": "高温/boiler_autoML_03.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_26.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "709.6",
+  "timestamp": "2025-06-26 06:51:13",
+  "relative_path": "高温/boiler_autoML_26.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_gradient2_02.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "859.8",
+  "timestamp": "2025-07-02 14:26:13",
+  "relative_path": "高温/boiler_gradient2_02.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_gradient2_03.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "842.6",
+  "timestamp": "2025-06-19 13:52:13",
+  "relative_path": "高温/boiler_gradient2_03.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_gradient2_06.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "760.3",
+  "timestamp": "2025-06-27 06:26:13",
+  "relative_path": "高温/boiler_gradient2_06.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_36.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "878.9",
+  "timestamp": "2025-06-24 06:30:13",
+  "relative_path": "高温/boiler_autoML_36.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_34.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "727.3",
+  "timestamp": "2025-07-05 15:59:13",
+  "relative_path": "高温/boiler_autoML_34.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_gradient2_04.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "858.3",
+  "timestamp": "2025-06-17 05:55:13",
+  "relative_path": "高温/boiler_gradient2_04.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_08.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "783.5",
+  "timestamp": "2025-06-09 18:20:13",
+  "relative_path": "高温/boiler_autoML_08.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/高温/boiler_autoML_44.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "高温",
+  "temperature_value": "973.8",
+  "timestamp": "2025-06-08 22:49:13",
+  "relative_path": "高温/boiler_autoML_44.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/极高温/boiler_autoML_12.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "极高温",
+  "temperature_value": "1172.0",
+  "timestamp": "2025-06-28 17:22:13",
+  "relative_path": "极高温/boiler_autoML_12.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/极高温/boiler_autoML_02.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "极高温",
+  "temperature_value": "1122.4",
+  "timestamp": "2025-07-01 20:02:13",
+  "relative_path": "极高温/boiler_autoML_02.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/极高温/boiler_gradient2_01.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "极高温",
+  "temperature_value": "1042.8",
+  "timestamp": "2025-06-21 16:20:13",
+  "relative_path": "极高温/boiler_gradient2_01.png"
+}
+{
+  "image_url": "azureml://subscriptions/4e3d915a-bc68-42e8-8bc1-af28dd4f8d91/resourcegroups/lytech-rg/workspaces/lytech-machine-learning-workspace/datastores/workspaceblobstore/paths/LocalUpload/aeafb12c43181b9788690d5db006e885/boiler_dataset/极高温/boiler_autoML_35.png",
+  "image_details": {
+    "format": "png",
+    "width": "unknown",
+    "height": "unknown"
+  },
+  "label": "极高温",
+  "temperature_value": "1313.7",
+  "timestamp": "2025-06-10 21:41:13",
+  "relative_path": "极高温/boiler_autoML_35.png"
+}
